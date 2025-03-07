@@ -21,8 +21,6 @@ https://huggingface.co/datasets/Maitreya152/CaD_Graphs
 
 ## Reference
 
-## Reference  
-
 If you make use of our work in your research, please cite the following in your manuscript:  
 
 ```bibtex
